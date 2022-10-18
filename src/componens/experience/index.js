@@ -9,7 +9,7 @@ export default function Experience(props) {
               <li>2018-2019 <a href="https://flowint.com/" className="font-semibold text-blue-900">FlowInt</a> (React/jQuery and some Java)</li>
               <li>2019 "student work experience" at <a href="https://ulobby.com" className="font-semibold text-blue-900">Ulobby A/S</a> (Vue and Laravel)</li>
               <li>2020 Graduation!</li>
-              <li>2021-2022 - Worked at <a href="https://risika.com" className="font-semibold text-blue-900">Risika A/S</a></li>
+              <li>2021-2022 - Worked at <a href="https://risika.com" className="font-semibold text-blue-900">Risika A/S</a> (Frontend with Vue and React)</li>
             </ol>
           </p>
         </div>
